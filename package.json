@@ -1,0 +1,21 @@
+{
+  "name": "mysql-api-example",
+  "version": "1.0.0",
+  "description": "REST API using nodejs and mysql exmaple",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Tran Quang Khai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
